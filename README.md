@@ -56,6 +56,53 @@ Menampilkan kumpulan berita dummy lokal dengan gambar dan deskripsi singkat.
 
 Tiap berita dapat diklik untuk membuka dialog detailnya.
 
+![Image](https://github.com/user-attachments/assets/5016bcbd-ab26-442a-b85a-5c0b233aca07)
+
+
+⚙️ Teknologi yang Digunakan
+- Framework: Flutter (SDK 3.9.2)
+- Bahasa: Dart
+- Dependency utama:
+    - intl → untuk format tanggal
+    - http → (opsional, untuk API di masa depan)
+- UI Components: Material Design, Card, BottomNavigationBar, IndexedStack
+
+
+🧭 Alur Navigasi
+
+Aplikasi menggunakan Bottom Navigation Bar dengan 5 tab:
+
+Biodata | Kontak | Kalkulator | Cuaca | Berita
+
+Navigasi utama diatur menggunakan IndexedStack, agar tiap halaman tetap mempertahankan state-nya saat berpindah tab.
+
+
+
+## Cara Menjalankan Aplikasi
+
+1. Clone repositori ini
+   git clone https://github.com/AnandaPermanaMulyadi/UTS_Mobile_152022086.git
+cd UTS_Mobile_152022086
+
+2. Jalankan perintah berikut untuk mengunduh dependency:
+   
+   flutter pub get
+
+4. Jalankan aplikasi di emulator atau perangkat Android:
+   
+   flutter run
+
+
+
+📚 Tentang Proyek Ini
+
+Proyek ini merupakan hasil UTS mata kuliah Pemrograman Mobile, yang menilai kemampuan mahasiswa dalam:
+- Mendesain UI Flutter yang interaktif
+- Mengimplementasikan navigasi antar halaman
+- Mengintegrasikan widget dan komponen dasar Flutter
+
+
+
 
 
 
