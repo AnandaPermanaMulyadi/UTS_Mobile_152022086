@@ -18,3 +18,10 @@ Menampilkan informasi pribadi pengguna dengan UI modern dan gradasi warna elegan
 - Jenis Kelamin (Radio)
 - Alamat (TextField)
 - Tanggal Lahir (DatePicker)
+![Image](https://github.com/user-attachments/assets/e7333272-3782-4c79-a91a-b5a217e03555)
+
+📇 2. Halaman Kontak
+
+Berisi daftar 15 kontak statis lengkap dengan nama, nomor telepon, dan avatar.
+
+Pengguna dapat menekan ikon telepon untuk menampilkan notifikasi SnackBar “Panggil [nomor]”.
