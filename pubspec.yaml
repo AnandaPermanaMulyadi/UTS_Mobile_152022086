@@ -1,0 +1,36 @@
+name: test_flutter
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0     # Untuk format tanggal
+  http: ^1.1.0      # Untuk mengambil data dari API
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/profile.jpg
+    - assets/images/contact_placeholder.jpg
+    - assets/images/weather_sun.jpg
+    - assets/images/weather_rain.jpg
+    - assets/images/cuaca1.png
+    - assets/images/cuaca2.png
+    - assets/images/cuaca3.png
+    - assets/images/cuaca4.png
+    - assets/images/berita1.jpg
+    - assets/images/berita2.jpg
+    - assets/images/berita3.jpg
+    - assets/images/berita4.jpg
+
