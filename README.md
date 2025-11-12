@@ -5,6 +5,7 @@ Aplikasi ini dikembangkan sebagai proyek UTS Mata Kuliah Pemrograman Mobile oleh
 - Nama: Ananda Permana Mulyadi
 - NIM: 15-2022-086
 - Program Studi: Informatika
+![Image](https://github.com/user-attachments/assets/e5c7142a-6ca4-4340-b362-c171e47a2088)
 
 Aplikasi ini merupakan implementasi multi-page mobile app berbasis Flutter, dengan integrasi berbagai fitur sederhana seperti biodata interaktif, daftar kontak, kalkulator, informasi cuaca statis, dan berita lokal
 
