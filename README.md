@@ -40,3 +40,13 @@ Kalkulator sederhana yang mendukung operasi dasar:
 - Operasi satu argumen (x² dan √)
 Menampilkan hasil dalam format yang rapi dan responsif.
 
+![Image](https://github.com/user-attachments/assets/a8811d05-4c3e-4556-9249-d6cfe07b1c22)
+
+🌤️ 4. Halaman Cuaca
+
+Menampilkan informasi cuaca lokal secara statis dengan ilustrasi visual dari aset gambar (assets/images/cuaca1.png, dst).
+
+Terdiri dari cuaca hari ini dan prakiraan untuk 4 hari ke depan.
+
+
+
