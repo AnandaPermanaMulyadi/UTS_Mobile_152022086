@@ -48,5 +48,14 @@ Menampilkan informasi cuaca lokal secara statis dengan ilustrasi visual dari ase
 
 Terdiri dari cuaca hari ini dan prakiraan untuk 4 hari ke depan.
 
+![Image](https://github.com/user-attachments/assets/e899f73b-a8bf-44eb-8710-bc2711462dc3)
+
+📰 5. Halaman Berita
+
+Menampilkan kumpulan berita dummy lokal dengan gambar dan deskripsi singkat.
+
+Tiap berita dapat diklik untuk membuka dialog detailnya.
+
+
 
 
