@@ -6,6 +6,52 @@ Aplikasi ini dikembangkan sebagai proyek UTS Mata Kuliah Pemrograman Mobile oleh
 - NIM: 15-2022-086
 - Program Studi: Informatika
   
+🟦 1. Pemrograman Mobile
+
+Pengertian:
+
+Pemrograman mobile berfokus pada pengembangan aplikasi yang dapat dijalankan secara native, hybrid, atau cross-platform di perangkat mobile. Aplikasi ini diinstal langsung melalui toko aplikasi seperti Google Play Store atau App Store.
+
+Karakteristik Utama:
+- Mengutamakan responsivitas dan efisiensi memori karena keterbatasan sumber daya perangkat.
+- Memiliki akses langsung ke hardware seperti GPS, kamera, sensor akselerometer, dan Bluetooth.
+- Dapat beroperasi secara offline dengan penyimpanan lokal (SQLite, SharedPreferences, dsb).
+- Antarmuka disesuaikan dengan layar sentuh (touchscreen) dan gesture control.
+- Memanfaatkan notifikasi dan integrasi sistem (misalnya push notification, background service).
+
+🟩 2. Pemrograman Desktop
+
+Pengertian:
+
+Pemrograman desktop menghasilkan aplikasi yang dijalankan di komputer atau laptop, biasanya dengan sistem operasi seperti Windows, macOS, atau Linux.
+
+Karakteristik Utama:
+- Tidak dibatasi oleh ukuran layar atau daya baterai.
+- Dapat menggunakan sumber daya perangkat keras (CPU, GPU, RAM) secara lebih luas.
+- Biasanya menggunakan bahasa seperti C++, Java, Python, atau C#.
+- Instalasi dilakukan secara manual (melalui file .exe, .dmg, dsb).
+- Antarmuka umumnya menggunakan keyboard dan mouse.
+  
+🟥 3. Pemrograman Web
+
+Pengertian:
+
+Pemrograman web berfokus pada aplikasi yang dijalankan melalui browser dengan bahasa seperti HTML, CSS, dan JavaScript, dan tidak perlu instalasi di perangkat pengguna.
+
+Karakteristik Utama:
+
+- Bersifat platform-independent, artinya dapat diakses dari berbagai perangkat asalkan memiliki browser dan koneksi internet.
+- Tidak memerlukan instalasi.
+- Antarmuka cenderung statis atau dinamis (tergantung framework seperti React, Vue, atau Angular).
+- Bergantung pada koneksi internet.
+- Tidak memiliki akses penuh ke perangkat keras seperti kamera atau GPS (dibatasi oleh izin browser).
+
+💡 Kesimpulan:
+
+Pemrograman mobile memiliki fokus utama pada portabilitas, efisiensi, dan interaksi pengguna dengan perangkat. Dibanding desktop dan web, pengembangan mobile lebih menantang karena perlu mengoptimalkan performa pada perangkat dengan keterbatasan sumber daya, namun menawarkan pengalaman pengguna yang lebih personal dan kontekstual (misalnya dengan lokasi, sensor, atau kamera).
+
+📚 Halaman Splash Screen 
+
 ![Image](https://github.com/user-attachments/assets/e5c7142a-6ca4-4340-b362-c171e47a2088)
 
 Aplikasi ini merupakan implementasi multi-page mobile app berbasis Flutter, dengan integrasi berbagai fitur sederhana seperti biodata interaktif, daftar kontak, kalkulator, informasi cuaca statis, dan berita lokal
